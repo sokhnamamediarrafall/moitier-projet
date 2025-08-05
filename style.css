@@ -1,0 +1,213 @@
+body{
+    background-color: rgb(255, 255, 255);
+    margin: 0;
+    text-decoration: ;
+    font-family: sans-serif
+
+}
+h1{
+  margin: 5%;
+}
+*{
+    box-sizing: border-box;
+}
+.section{
+   display: flex;
+   gap: 30%;
+   flex-wrap: wrap; 
+   margin: 5%;  
+ }  
+h2{
+    color: orangered;
+    margin: 3%;
+}   
+
+.section1{
+     background-color: beige;
+     padding:50px ;
+     border-radius: 15px;
+     border: solid  coral;
+}
+.section2{
+     background-color: beige;
+     padding:50px ;
+     border-radius: 15px;
+     border: solid  coral;
+     
+     }
+     .developpement{
+       
+       background-color: white;
+        height: 60%;
+        padding: 50px; 
+        width: 40%;
+        margin: 6PX;
+        margin-left: 30PX;
+       margin-right: 30%;
+       border-radius: 5px;
+    
+     }
+     .lettre{
+        color: orangered;
+        
+     }
+     .number{
+        background-color: orangered;
+        margin-top: 1%;
+        color: white;
+        padding: 5px;
+        width: 20%;   
+     }
+    .developpement1{
+         
+         background-color: white;
+        width: 40%;
+        height: 60%;
+        padding: 1%;
+        margin-left: -380px;
+        border-radius: 5px;
+    }
+    .number1{
+     background-color: orangered;
+        color: white;
+        padding: 5px;
+        width: 20%;
+        margin-top: 4%;
+     }
+    .developpement3{
+        
+        background-color: white;
+        width: 40%;
+        height: 60%;
+        padding:1%;
+        border-radius: 5px;
+      
+    }
+    .number3{
+     background-color: orangered;
+        color: white;
+        padding: 5px;
+        width: 50px;
+    }
+    .star{
+       display: flex;
+       width: 100%;
+       margin-top: 4%;
+       gap: 3%;
+       background-color: orangered;
+       padding: 2%;
+    }
+    h2{
+        color: orangered;
+    }
+     h4{
+        color: orangered;
+    }
+    .ligne-vertical{
+        width: 1px;
+        height: 250PX;
+        background-color: black;  
+        }
+    .Reservation{
+        display: flex;
+        gap: 90px;
+        padding: 1px;
+        background-color: beige;
+        width: 75%;
+    }
+    .reservation1{
+        display: flex;
+        flex-direction: column; 
+        gap: 3%;  
+       
+    }
+    .cf{
+       margin-right: 4px;
+        background-color: orangered;
+        color: white;
+        
+     }
+    
+    .boutton{
+        padding: 7px;
+        background-color: rgb(193, 65, 18);
+        color: white;
+        width: 185px;
+        border-radius: 5px;
+        border: 1px orangered;
+    }
+    *{
+    box-sizing: border-box;
+       }
+    .performance{
+        display: flex;
+        gap: 50%;
+        margin: 2%;
+    }
+     *{
+    box-sizing: border-box;
+ } 
+    .temoignage {
+       margin: 5%;
+     font-size: small;
+     display: flex;
+     margin-bottom: 10%;
+     gap: 1%;
+     }
+    .temoignage1{
+        background-color: beige;
+        padding: 1%;
+        width: 30%;
+        height: 20%;
+        border: solid 3px beige;   
+    }
+    .temoignage2{
+        background-color: orangered;
+        padding: 1%;
+        width: 30%;
+        height: 20%;
+        border: solid 1px beige;  
+    }
+    .temoignageA{
+        background-color: beige;
+        border-bottom: 5% beige;
+         } 
+     .temoignage3{
+        background-color: beige ;
+        padding: 1%;
+        width: 30%;
+        height: 20%;
+        border: solid 3px beige;  
+         }
+        footer{
+        background-color: orangered;
+        padding: 1%;
+        margin-top: 1px;
+        }
+        .footer{
+            color: rgb(2, 2, 2);
+            display: flex;
+            gap: 30%;
+            margin: 5%;
+        }
+        h5{
+            color: white;
+        }
+        h6{
+            color: white;
+        }
+        .format{
+           
+            color: white;
+            gap: 33%;
+        }
+        label{
+            color: white;
+        }
+        button{
+            padding: 3%;
+            width: 70%;
+            color: white;
+            background-color: black;
+        }
+        
